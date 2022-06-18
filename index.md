@@ -1,8 +1,18 @@
-## Seedcipher
+
 
 ## Welcome to Seedcipher Userguide
 
-You can use the [editor on GitHub](https://github.com/seedlock/seedlock.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+***Please follow the steps carefully.***
+
+1. From the wallets screen tap the top left + icon.
+2. From the add new seed screen, select the number of words.
+3. Enter your words in their correct order.
+4. Enter a password and confirm.
+5. From the presented screen enter a name for your wallet and set a memory jogger if desired.
+6. Save your wallet.
+
+***Important****
+7. Perform a restore. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
