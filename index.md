@@ -21,6 +21,9 @@ Seedcipher is a tool to help manage and protect your cryptocurrency seedphrase.
 ## Contact & Support
 
 If you have any suggestions or require support please send an email to: seedcipher@proton.me
+
+## Privacy & Terms of Use
+
 [Privacy & Terms of Use](https://seedlock.github.io/seedcipher/terms/terms.md)
 
 
