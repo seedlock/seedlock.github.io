@@ -16,5 +16,3 @@ In downloading and using Seedlock you agree to the above privacy policy and to t
 
 The app is made available to you on an "as is" and "as available" basis, to be used at your own discretion and risk. 
 The app is not a replacement for your seedphrase, but rather a tool that can be used in conjunction with it. The security of your seedphrase is 100% your responsibility. Seedlock makes no guarantees with respect to the reliability of the app, its safety, security or future availability.
-
-[Back](https://seedlock.github.io)
