@@ -15,4 +15,4 @@ In downloading and using Seedcipher you agree to the above privacy policy and to
 ### *Terms & Conditions:*
 
 The app is made available to you on an "as is" and "as available" basis, to be used at your own discretion and risk. 
-The app is not a replacement for your seedphrase, but rather a tool that can be used in conjunction with it. The security of your seedphrase is 100% your responsibility. No guarantee with respect to the reliability of the app, its safety, security or future availability, is made.
+The app is not a replacement for your seedphrase, but rather a tool that can be used in conjunction with it. The security of your seedphrase is 100% your responsibility. No guarantee with respect to the reliability of the app, its safety, security or future availability, is made. That said, I personally keep no seedphrase that hasn't been ciphered.
